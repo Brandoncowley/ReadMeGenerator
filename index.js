@@ -69,7 +69,7 @@ const questions = [
 # ${response.project}
 #### Github: ${response.github}
 Video walkthrough for usage: https://drive.google.com/file/d/1Gsn8-N_QLfE_KveLKw9zGUuQa4Xrln1Q/view?usp=sharing
-
+![Your README output may look as follows:](./ReadMeScreenshot.JPG)
 ## Table of Contents
 1. [Github](#github)
 2. [Email](#email)
