@@ -66,42 +66,41 @@ const questions = [
     }
     //PAGE OUTPUT LAYOUT
     const result = `
-    # ${response.project}
-    #### Github: ${response.github}
-    Video walkthrough for usage: 
+# ${response.project}
+#### Github: ${response.github}
+Video walkthrough for usage: 
 
-    ## Table of Contents
-    1. [Github](#github)
-    2. [Email](#email)
-    3. [Description](#description)
-    4. [License](#license)
-    5. [Install](#install)
-    6. [Testing](#test)
-    7. [Repo](#repo)
-    8. [Contribution](#contribution)
-
-    
-    ## Description: 
-        ${response.description}
+## Table of Contents
+1. [Github](#github)
+2. [Email](#email)
+3. [Description](#description)
+4. [License](#license)
+5. [Install](#install)
+6. [Testing](#test)
+7. [Repo](#repo)
+8. [Contribution](#contribution)
+   
+## Description: 
+   ${response.description}
         
-    ## Installation commands required:
-    Use the following code in your code for installation:
-    \`\`\`    
-    - ${response.install}
-    \`\`\`
+## Installation commands required:
+Use the following code in your code for installation:
+\`\`\`    
+- ${response.install}
+\`\`\`
 
-    ## Testing information
-        ${response.test}
-    ## Repo
-        ${response.repo}
+## Testing information
+    ${response.test}
+## Repo
+    ${response.repo}
 
-    ##### Licensed with:
-        ${response.license}
-    ## Contributor:
-        ${response.contribution}
-    ## email
-    You can contact the creator with questions regarding the generator at ${response.email}
-    `
+##### Licensed with:
+    ${response.license}
+## Contributor:
+    ${response.contribution}
+## email
+You can contact the creator with questions regarding the generator at ${response.email}
+`
 
     fs.writeFile("README.md", result, (err) =>
     err ? console.log(err) : console.log('Success!'))
