@@ -2,7 +2,7 @@
 # ReadMe Generator
 #### Github: https://github.com/Brandoncowley
 Video walkthrough for usage: https://drive.google.com/file/d/1Gsn8-N_QLfE_KveLKw9zGUuQa4Xrln1Q/view?usp=sharing
-
+![Your README output may look as follows:](./ReadMeScreenshot.JPG)
 ## Table of Contents
 1. [Github](#github)
 2. [Email](#email)
@@ -14,22 +14,22 @@ Video walkthrough for usage: https://drive.google.com/file/d/1Gsn8-N_QLfE_KveLKw
 8. [Contribution](#contribution)
    
 ## Description: 
-This project allows users to easily make a ReadMe fil for their projects
+This project alows a user to make a ReadMe file for their project
         
 ## Installation commands required:
 Use the following code in your code for installation:
 ```    
-- npm install inquirer
+- npm install iquirer
 ```
 
 ## Testing information
-I command you to run these tests!
+I command you to test this!
 ## Repo
-This repo slaps
+Brandon Cowley
 
 ##### Licensed with:
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Contributor:
 Brandon Cowley
 ## Email
-You can contact the creator with questions regarding the generator at Brandon.cowley@gmail.com
+You can contact the creator with questions regarding the generator at brandon.cowley@gmail.com
