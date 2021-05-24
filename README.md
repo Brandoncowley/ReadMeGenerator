@@ -1,5 +1,5 @@
 
-# ReadME Generator
+# ReadMe Generator
 #### Github: https://github.com/Brandoncowley
 Video walkthrough for usage: 
 
@@ -14,22 +14,22 @@ Video walkthrough for usage:
 8. [Contribution](#contribution)
    
 ## Description: 
-   asdfsdfg
+   This project allows the user to quickly make a readme file for their project
         
 ## Installation commands required:
 Use the following code in your code for installation:
 ```    
-- asfgarsgdf
+- npm install inquirer
 ```
 
 ## Testing information
-    adfhgsdf
+    I command you to run the tests!
 ## Repo
-    adfgfads
+    This repo is beautiful
 
 ##### Licensed with:
     [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Contributor:
-    ardgfadf
+    Brandon Cowley
 ## email
 You can contact the creator with questions regarding the generator at brandon.cowley@gmail.com
