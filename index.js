@@ -68,7 +68,7 @@ const questions = [
     const result = `
 # ${response.project}
 #### Github: ${response.github}
-Video walkthrough for usage: 
+Video walkthrough for usage: https://drive.google.com/file/d/1Gsn8-N_QLfE_KveLKw9zGUuQa4Xrln1Q/view?usp=sharing
 
 ## Table of Contents
 1. [Github](#github)
@@ -98,7 +98,7 @@ ${response.repo}
 ${response.license}
 ## Contributor:
 ${response.contribution}
-## email
+## Email
 You can contact the creator with questions regarding the generator at ${response.email}
 `
 
