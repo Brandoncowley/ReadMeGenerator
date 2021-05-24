@@ -2,6 +2,8 @@
 # ReadMe Generator
 #### Github: https://github.com/Brandoncowley
 Video walkthrough for usage: https://drive.google.com/file/d/1Gsn8-N_QLfE_KveLKw9zGUuQa4Xrln1Q/view?usp=sharing
+
+### Screenshot of end product:
 ![Your README output may look as follows:](./ReadMeScreenshot.JPG)
 ## Table of Contents
 1. [Github](#github)
@@ -25,11 +27,11 @@ Use the following code in your code for installation:
 ## Testing information
 npm test
 ## Repo
-This repo is an amazing place to be, obviously
+It is a wonderful place to me, obviously
 
 ##### Licensed with:
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Contributor:
 Brandon Cowley
 ## Email
-You can contact the creator with questions regarding the generator at Brandon.cowley@gmail.com
+You can contact the creator with questions regarding the generator at brandon.cowley@gmail.com
