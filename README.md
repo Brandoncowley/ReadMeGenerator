@@ -14,22 +14,22 @@ Video walkthrough for usage: https://drive.google.com/file/d/1Gsn8-N_QLfE_KveLKw
 8. [Contribution](#contribution)
    
 ## Description: 
-This project alows a user to make a ReadMe file for their project
+This template allows users to answer a series of prompts through the command line in their terminal to rapidly create a ReadMe file
         
 ## Installation commands required:
 Use the following code in your code for installation:
 ```    
-- npm install iquirer
+- npm install inquirer
 ```
 
 ## Testing information
-I command you to test this!
+npm test
 ## Repo
-Brandon Cowley
+This repo is an amazing place to be, obviously
 
 ##### Licensed with:
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Contributor:
 Brandon Cowley
 ## Email
-You can contact the creator with questions regarding the generator at brandon.cowley@gmail.com
+You can contact the creator with questions regarding the generator at Brandon.cowley@gmail.com
