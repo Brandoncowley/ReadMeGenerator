@@ -1,5 +1,5 @@
 
-# ReadMe Generator
+# safgasdfs
 #### Github: https://github.com/Brandoncowley
 Video walkthrough for usage: 
 
@@ -14,22 +14,22 @@ Video walkthrough for usage:
 8. [Contribution](#contribution)
    
 ## Description: 
-   This project allows the user to quickly make a readme file for their project
+fgnbvseacdx
         
 ## Installation commands required:
 Use the following code in your code for installation:
 ```    
-- npm install inquirer
+-  giymufnybdgrsedzxcvbg
 ```
 
 ## Testing information
-    I command you to run the tests!
+nhgbfvdcsfcvbgcdxs
 ## Repo
-    This repo is beautiful
+sfswe rfzd
 
 ##### Licensed with:
-    [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Contributor:
-    Brandon Cowley
+ME
 ## email
-You can contact the creator with questions regarding the generator at brandon.cowley@gmail.com
+You can contact the creator with questions regarding the generator at brandonasdgasdf

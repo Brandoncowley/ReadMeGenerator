@@ -81,7 +81,7 @@ Video walkthrough for usage:
 8. [Contribution](#contribution)
    
 ## Description: 
-   ${response.description}
+${response.description}
         
 ## Installation commands required:
 Use the following code in your code for installation:
@@ -90,14 +90,14 @@ Use the following code in your code for installation:
 \`\`\`
 
 ## Testing information
-    ${response.test}
+${response.test}
 ## Repo
-    ${response.repo}
+${response.repo}
 
 ##### Licensed with:
-    ${response.license}
+${response.license}
 ## Contributor:
-    ${response.contribution}
+${response.contribution}
 ## email
 You can contact the creator with questions regarding the generator at ${response.email}
 `
